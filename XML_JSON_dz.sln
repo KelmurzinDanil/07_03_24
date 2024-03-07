@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_JSON_dz", "XML_JSON_dz.csproj", "{49025EE0-20DF-4218-B960-6BAD5D49DB6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49025EE0-20DF-4218-B960-6BAD5D49DB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49025EE0-20DF-4218-B960-6BAD5D49DB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49025EE0-20DF-4218-B960-6BAD5D49DB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49025EE0-20DF-4218-B960-6BAD5D49DB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB4BDA42-A5B8-4BAA-B9FB-46364A4ECEBA}
+	EndGlobalSection
+EndGlobal

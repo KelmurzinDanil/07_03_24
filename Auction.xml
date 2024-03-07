@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Lots xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LotsList>
+    <Lot>
+      <Id>0</Id>
+      <NameLot>Stone</NameLot>
+      <NameReception>Ogr</NameReception>
+      <Sum>12</Sum>
+      <Time>2024-03-07T22:08:52.7523876+03:00</Time>
+    </Lot>
+    <Lot>
+      <Id>1</Id>
+      <NameLot>Ring</NameLot>
+      <NameReception>Rob</NameReception>
+      <Sum>4</Sum>
+      <Time>2024-03-07T22:09:29.7604408+03:00</Time>
+    </Lot>
+    <Lot>
+      <Id>2</Id>
+      <NameLot>Big Banana</NameLot>
+      <NameReception>King Kong</NameReception>
+      <Sum>56</Sum>
+      <Time>2024-03-07T22:10:46.8165427+03:00</Time>
+    </Lot>
+    <Lot>
+      <Id>3</Id>
+      <NameLot>Goold Crown</NameLot>
+      <NameReception>King</NameReception>
+      <Sum>100</Sum>
+      <Time>2024-03-07T22:11:52.1362661+03:00</Time>
+    </Lot>
+  </LotsList>
+</Lots>
